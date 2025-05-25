@@ -77,11 +77,11 @@ file_path = f'C:/Users/KMS-LGR01/Downloads/{save_date}.xlsx'
 
 # Ionos SMTP 설정
 smtp_server = "smtp.ionos.com"
-smtp_port = 587  # TLS 사용 (또는 465 사용 가능)
+smtp_port = ###  # TLS 사용 (또는 ### 사용 가능)
 sender_email = ""  # Ionos 이메일 주소
 password = ""  # Ionos 이메일 비밀번호
 
-recipient_email = "heyho0929@gmail.com"
+recipient_email = "####@####"
 
 # 이메일 메시지 작성
 msg = MIMEMultipart()
